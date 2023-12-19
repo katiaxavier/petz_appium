@@ -37,7 +37,7 @@ Certifique-se de atender aos seguintes pré-requisitos antes de executar os test
 
 ## Instalação do Aplicativo Petz
 
-Antes de executar os testes de automação, é necessário instalar o aplicativo Petz no dispositivo Android. Siga as instruções abaixo:
+Antes de executar os testes, é necessário instalar o aplicativo Petz no dispositivo Android. Siga as instruções abaixo:
 
 1. Baixe o arquivo APK mais recente do aplicativo Petz [aqui](https://apkpure.com/br/petz-pet-shop-online/br.com.petz).
 2. Instale o APK no seu dispositivo Android ou emulador.
