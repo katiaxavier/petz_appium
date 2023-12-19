@@ -1,4 +1,5 @@
 # Projeto de Testes Automatizados - Petz
+Avaliação do curso de Especialização em Testes Ageis (ETA) da Cesar School para a disciplina Tópicos especiais II (Testes Mobile)
 
 ## Descrição do Projeto
 
