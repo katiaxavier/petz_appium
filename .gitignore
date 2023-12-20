@@ -1,0 +1,22 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+
+# Local development settings
+.env
+
+# IDE-specific files
+.idea/
+
+# Python-specific files
+*.pyc
+*.pyo
+*.pyd
+
+assets/
