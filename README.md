@@ -24,6 +24,14 @@ O projeto segue a estrutura do padrão Page Object, organizando os elementos da 
 - **pages/**: Armazena as classes que representam as páginas do aplicativo, implementando o padrão Page Object.
 - **utilities/**: Utilitários e funções auxiliares.
 
+## Scripts de Teste
+
+No total foram desenvolvidos 6 scripts de teste das funcionalidades de Busca, Detalhes e Sacola.
+
+- **busca_produto_test**: test_deve_buscar_por_produto, test_deve_exibir_sugestao_produtos, test_nao_deve_exibir_sugestao_produtos
+- **detalhes_produto_test**: test_deve_adicionar_produto_na_sacola
+- **sacola_test**: test_deve_aumentar_quantidade_produto, test_deve_diminuir_quantidade_produto
+
 ## Pré-requisitos
 
 Certifique-se de atender aos seguintes pré-requisitos antes de executar os testes:
