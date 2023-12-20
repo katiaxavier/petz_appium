@@ -4,7 +4,7 @@ Avaliação do curso de Especialização em Testes Ageis (ETA) da Cesar School p
 ## Descrição do Projeto
 
 Este repositório contém scripts de automação de testes para o aplicativo Petz, utilizando Appium como ferramenta de automação e Python como linguagem de programação, com a estrutura do projeto organizada seguindo o padrão Page Object.
-- Petz: O aplicativo da Petz é essencial para facilitar o dia a dia de quem é apaixonado por pets. Com ele você compra tudo que seu pet precisa e recebe em casa ou retura em minutos na loja mais proxima.
+- Petz: O aplicativo da Petz é essencial para facilitar o dia a dia de quem é apaixonado por pets. Com ele você compra tudo que seu pet precisa e recebe em casa ou retira em minutos na loja mais proxima.
 
 ## Tecnologias Utilizadas
 
